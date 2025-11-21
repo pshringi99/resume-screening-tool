@@ -1,0 +1,28 @@
+Sam Smith
+Frontend Developer
+sam.smith@email.com
+
+Objective:
+Passionate Frontend Developer with 3 years of experience building responsive web applications. Eager to leverage skills in React and TypeScript to contribute to scalable solutions.
+
+Skills:
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3.
+- Frameworks: React.js (Hooks, Context), Redux (Basic).
+- Tools: Git, Webpack, NPM.
+- Backend: Node.js (Express) - Intermediate.
+
+Experience:
+Frontend Developer | Creative Agency | 2022 - Present
+- Built dynamic user interfaces using React.js and TypeScript for e-commerce clients.
+- Integrated RESTful APIs to display product data and manage user carts.
+- Collaborated with backend developers to define API schemas.
+- Refactored legacy jQuery codebases to modern React components.
+
+Web Developer | Freelance | 2020 - 2022
+- Developed custom websites using HTML, CSS, and JavaScript.
+- Implemented responsive designs ensuring cross-browser compatibility.
+- Managed deployment and hosting for client sites.
+
+Education:
+Bachelor of Science in Information Technology
+City College | 2020

@@ -1,0 +1,25 @@
+Job Title: Senior Frontend Developer
+
+About Us:
+We are a fast-growing tech startup building the next generation of e-commerce solutions. We are looking for a passionate and experienced Senior Frontend Developer to join our team.
+
+Responsibilities:
+- Develop and maintain high-quality web applications using React, TypeScript, and Node.js.
+- Collaborate with designers and backend engineers to deliver seamless user experiences.
+- Optimize applications for maximum speed and scalability.
+- Mentor junior developers and conduct code reviews.
+
+Requirements:
+- 5+ years of professional experience in frontend development.
+- Strong proficiency in JavaScript, TypeScript, and ES6+.
+- Deep understanding of React.js and its core principles (Hooks, Context API).
+- Experience with state management libraries (Redux, Zustand, or Recoil).
+- Familiarity with modern build tools (Webpack, Vite).
+- Experience with testing frameworks (Jest, React Testing Library).
+- Knowledge of GraphQL and RESTful APIs.
+- Experience with AWS and CI/CD pipelines is a plus.
+
+Benefits:
+- Competitive salary and equity.
+- Remote-first culture.
+- Health, dental, and vision insurance.

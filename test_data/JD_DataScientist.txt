@@ -1,0 +1,18 @@
+Job Title: Data Scientist
+
+Description:
+We are seeking a talented Data Scientist to derive insights from our vast datasets. You will work closely with product and engineering teams to build machine learning models that power our recommendation engine.
+
+Key Responsibilities:
+- Design and implement machine learning models for recommendation systems.
+- Analyze large datasets to identify trends and patterns.
+- Build data pipelines to clean and process data.
+- Communicate findings to stakeholders through visualizations and reports.
+
+Qualifications:
+- Masters or PhD in Computer Science, Statistics, or related field.
+- 3+ years of experience in Data Science or Machine Learning.
+- Proficiency in Python and libraries such as Pandas, NumPy, Scikit-learn.
+- Experience with Deep Learning frameworks (TensorFlow, PyTorch).
+- Strong SQL skills for data extraction.
+- Experience with Big Data tools (Spark, Hadoop) is desirable.

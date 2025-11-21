@@ -1,0 +1,28 @@
+Alex Johnson
+Senior Frontend Engineer
+alex.johnson@email.com | linkedin.com/in/alexjohnson
+
+Summary:
+Highly skilled Senior Frontend Developer with 6 years of experience building scalable web applications. Expert in the React ecosystem, TypeScript, and modern frontend architecture. Passionate about performance optimization and user experience.
+
+Skills:
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, Python.
+- Frameworks & Libraries: React.js, Next.js, Redux Toolkit, Tailwind CSS, Material UI.
+- Tools: Git, Webpack, Vite, Docker, AWS (S3, CloudFront), Jenkins.
+- Testing: Jest, Cypress, React Testing Library.
+
+Experience:
+Senior Frontend Developer | TechFlow Solutions | 2020 - Present
+- Led the migration of a legacy monolith to a micro-frontend architecture using React and TypeScript, improving build times by 40%.
+- Developed and maintained a reusable component library used across 5 different products.
+- Mentored a team of 3 junior developers, conducting weekly code reviews and technical workshops.
+- Integrated GraphQL APIs to fetch data efficiently, reducing network payload by 30%.
+
+Frontend Developer | Webify Inc. | 2017 - 2020
+- Built responsive single-page applications (SPAs) using React and Redux.
+- Collaborated with UX designers to implement pixel-perfect designs.
+- Implemented automated testing using Jest, achieving 85% code coverage.
+
+Education:
+Bachelor of Science in Computer Science
+University of Technology | 2013 - 2017
