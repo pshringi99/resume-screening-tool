@@ -9,14 +9,14 @@ A simple AI-powered Resume Screening Tool where recruiters can upload a resume a
 - **In-Memory Vector Store**: Simple, self-contained vector search.
 
 ## Tech Stack
-- **Backend**: Node.js, Express, TypeScript, OpenAI API, pdf-parse.
+- **Backend**: Node.js, Express, TypeScript, Google Gemini API, pdf-parse.
 - **Frontend**: React, Vite, TypeScript, Framer Motion, Lucide React.
 
 ## Setup
 
 ### Prerequisites
 - Node.js 18+
-- OpenAI API Key
+- Google Gemini API Key
 
 ### Installation
 
@@ -36,10 +36,10 @@ A simple AI-powered Resume Screening Tool where recruiters can upload a resume a
 
 4. **Environment Setup**:
    - Create a `.env` file in the `server` directory.
-   - Add your OpenAI API Key:
+   - Add your Gemini API Key:
      ```
      PORT=3000
-     OPENAI_API_KEY=sk-your-api-key-here
+     GEMINI_API_KEY=your-gemini-api-key-here
      ```
 
 ## Running the Application
