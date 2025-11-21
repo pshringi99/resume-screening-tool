@@ -2,6 +2,9 @@
 
 Welcome to the Resume Screening Tool! This guide will walk you through the features and usage of the application.
 
+## Video Demo
+[Watch the Demo Video](https://youtu.be/sY9fHie8jQM)
+
 ## Prerequisites
 - Ensure the server is running on port 3000.
 - Ensure the client is running (typically port 5173).
