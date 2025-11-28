@@ -13,8 +13,22 @@ app.use(express.json());
 
 app.use('/api', apiRoutes);
 
-app.get('/', (req, res) => {
-    res.send('Resume Screening API is running');
+// Serve static files from the client dist directory
+import path from 'path';
+
+// Adjust the path to point to client/dist from server/src (or server/dist)
+// When running from server/dist/index.js, client is at ../../client/dist
+// When running from server/src/index.ts, client is at ../../client/dist
+const clientDistPath = path.join(__dirname, '../../client/dist');
+
+app.use(express.static(clientDistPath));
+
+// Handle client-side routing by returning index.html for all non-API routes
+app.get(/.*/, (req, res) => {
+    if (req.path.startsWith('/api')) {
+        return res.status(404).json({ error: 'API endpoint not found' });
+    }
+    res.sendFile(path.join(clientDistPath, 'index.html'));
 });
 
 app.listen(PORT, () => {
